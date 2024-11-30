@@ -25,6 +25,5 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📫 Contact Me
 - **LinkedIn**: [Ahthackes](https://www.linkedin.com/in/ahthackes)
-- **Email**: ahthackes@gmail.com (if applicable, please replace this with your actual email if you want to share it)
 
 Feel free to explore my repositories and connect with me to collaborate on exciting projects!
